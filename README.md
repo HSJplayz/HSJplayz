@@ -24,8 +24,10 @@ Databases
 Tools and Platforms
 
 <p> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </p> <br />
-Featured Projects
+Featured Projects-
+Portfolio Website
 
+A personal portfolio showcasing projects and skills, live at [my-portfolio-kappa-teal-10.vercel.app](https://my-portfolio-kappa-teal-10.vercel.app/).
 HSJplayz Projects
 
 A collection of personal coding projects, games, and websites where new ideas are tested and development skills are sharpened. Additional projects are in progress.
